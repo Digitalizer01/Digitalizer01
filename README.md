@@ -24,7 +24,7 @@ In the rapidly evolving world of software development, I believe in continuous l
 
 ## Let's Connect!
 
-I'm enthusiastic about collaborating on exciting projects, discussing technology trends, and exploring new opportunities. Feel free to reach out to me via [itlazaroh@gmail.com].
+I'm enthusiastic about collaborating on exciting projects, discussing technology trends, and exploring new opportunities. Feel free to reach out to me via [email](itlazaroh@gmail.com).
 
 Looking forward to connecting with like-minded developers and making a positive impact through software engineering!
 
