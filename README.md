@@ -1,6 +1,6 @@
 # About Me
 
-Hey there! I'm Digitalizer, a passionate software engineer with a knack for building robust and scalable solutions. With nearly a year of experience in the industry, I thrive on tackling complex problems and creating elegant, efficient code.
+Hey there! I'm Digitalizer, a passionate software engineer with a knack for building robust and scalable solutions. With a year of experience in the industry, I thrive on tackling complex problems and creating elegant, efficient code.
 
 I have a deep-rooted passion for video games, which has fueled my drive to work on some projects that merge my love for coding with the gaming world. Currently, I'm diving into the exciting realm of Unreal Engine and honing my skills in C++. I have also explored Unity and GameMaker Studio 2 to broaden my game development knowledge.
 
